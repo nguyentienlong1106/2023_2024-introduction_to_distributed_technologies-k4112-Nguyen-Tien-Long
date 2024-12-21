@@ -6,7 +6,7 @@ Group: K4112c
 Author: Nguyen Tien Long
 Lab: Lab 2  
 Date of create: 10.12.2024  
-Date of finished: 21.12.2023
+Date of finished: 21.12.2024
 
 #
 

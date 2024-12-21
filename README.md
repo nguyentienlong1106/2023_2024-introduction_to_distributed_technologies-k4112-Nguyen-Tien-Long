@@ -6,3 +6,5 @@ Course: [Introduction to distributed technologies](https://github.com/itmo-ict-f
 Year: 2024/2025
 Group: K4112c  
 Author: Nguyen Tien Long
+Date of create: 10.12.2024  
+Date of finished: 21.12.2024
